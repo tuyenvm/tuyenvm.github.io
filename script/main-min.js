@@ -1,0 +1,1 @@
+var heroAge=heroAge||{};!function(){"use strict";$(function(){!function(){$(window).width();$(".js-btn-toggle-menu").on("click",function(){$(this).toggleClass("open"),$(".js-header").toggleClass("open")}),heroAge.Sticky.init()}()})}();
