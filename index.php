@@ -1,6 +1,6 @@
 <?php
-$latestVersionMac = '2.0.2';
-$latestVersionWin = '2.0.2';
+$latestVersionMac = '2.0.5';
+$latestVersionWin = '2.0.5 RC';
 ?>
 <!-- base.html -->
 <!DOCTYPE html>
@@ -331,7 +331,7 @@ $latestVersionWin = '2.0.2';
 								</td></tr>
 								<tr><td>
 									<select name="os0">
-										<option value="Frendly Coffee">Frendly Coffee $2.00 USD</option>
+										<option value="Friendly Coffee">Friendly Coffee $2.00 USD</option>
 										<option value="Iced Coffee">Iced Coffee $5.00 USD</option>
 										<option value="Milk Coffee">Milk Coffee $10.00 USD</option>
 										<option value="Mink Coffee">Mink Coffee $15.00 USD</option>
